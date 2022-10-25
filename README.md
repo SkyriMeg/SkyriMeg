@@ -2,7 +2,7 @@
 Discover my profil :)
 
 <h1 align="center">Hi 👋, I'm Megane</h1>
-<h3 align="center">A student developer from Bordeaux</h3>
+<h3 align="center">A student developer web from Bordeaux</h3>
 
 - 🌱 I’m currently learning **PHP, JavaScript**
 
